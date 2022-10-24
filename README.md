@@ -18,7 +18,7 @@ I would revise the Gantt Chart that was part of the Business Requirements Docume
 lot that could be done to improve it and make it easier to read and understand. The Gantt Chart 
 I created does what it needs to do, but with a few adjustments and a clearer timeline, it would 
 be greatly improved.
- How did you interpret the user’s needs and implement them into your system design? Why is it 
+ How did you interpret the user’s needs and implement them into your system design? Why is it 
 so important to consider the user’s needs when designing?
 
 It is extremely important to consider the user’s needs when designing anything. You can make a 
